@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-struct Employe {
+struct Employee {
     char name[20];
     int id;
     int age;
